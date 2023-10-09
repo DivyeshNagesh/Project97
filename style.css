@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+input[type="number"] {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 15px;
+    background-color: #0074d9;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.message {
+    color: #d9534f;
+}
